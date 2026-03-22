@@ -26,11 +26,24 @@ Project David is structured as a layered ecosystem. The **platform** is the core
 
 The orchestration layer supports multi-agent deep research out of the box — a supervisor agent plans and delegates, workers execute in parallel, and a shared scratchpad provides observable, attributed state across the entire run.
 
+---
+
 ### Stack
 
 ![Project David Stack](https://raw.githubusercontent.com/project-david-ai/projectdavid-platform/master/assets/svg/projectdavid-stack.svg)
 
-```
+---
+
+## Sovereign Forge Cluster
+
+Run inference and fine-tuning on your own GPU hardware. Scale horizontally across nodes or vertically within them — from a single home lab machine to a full enterprise cluster.
+
+![Project David Cluster](https://raw.githubusercontent.com/project-david-ai/projectdavid-core/master/assets/svg/pd_cluster.svg)
+
+
+
+
+
 
 ## Documentation
 
